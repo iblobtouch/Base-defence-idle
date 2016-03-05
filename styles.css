@@ -1,0 +1,12 @@
+#game {
+    top: 0; 
+    left: 0; 
+    pading:0;
+    margin: auto;
+    display: block;
+	border: solid black 1px;
+}
+
+.lato {
+	font-family: 'Lato', sans-serif;
+}
